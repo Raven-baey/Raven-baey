@@ -1,25 +1,71 @@
-<h1>Hi, I'm Raven! <br/><a href="https://github.com/Raven-baey">Programmer(Python)</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Beginner AI engeneer</a>,
+<h1>Hi, I'm Raven! 🧠</h1>
+<p><strong>Python Developer</strong> • <strong>Beginner AI Engineer</strong></p>
 
-<h2>👨‍💻 Python Projects:</h2>
+<p>
+  <a href="https://github.com/Raven-baey">GitHub</a> •
+  <a href="https://www.linkedin.com/in/your-profile/">LinkedIn</a>
+</p>
 
-- <b>Main projects (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (Flask)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Small projects</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>AI projects</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<h2>🐍 Python Projects</h2>
+<ul>
+  <li><strong>Algorithms & Problem Solving</strong>
+    <ul>
+      <li><a href="https://github.com/Raven-baey/Algorithms-Practice">Practicing Data Structures & Algorithms in Python</a></li>
+    </ul>
+  </li>
 
-<h2>📺 Popular YouTube Videos</h2>
+  <li><strong>Full-Stack Web Development (Flask)</strong>
+    <ul>
+      <li><a href="https://github.com/Raven-baey/flask-webapp">Flask Web App — User Login, Admin Dashboard, API Endpoints</a></li>
+    </ul>
+  </li>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+  <li><strong>Automation & Utilities</strong>
+    <ul>
+      <li><a href="https://github.com/Raven-baey/data-cleaner">Data-Cleaner Script</a> — automatic CSV cleaning and normalization using pandas</li>
+      <li><a href="https://github.com/Raven-baey/file-organizer">File Organizer</a> — batch script that sorts and renames files by type/date</li>
+    </ul>
+  </li>
+</ul>
+
+<h2>🤖 AI & Machine Learning Projects</h2>
+<ul>
+  <li><strong>Linear ML Prototype</strong>
+    <ul>
+      <li><a href="https://github.com/Raven-baey/linear-ml-prototype">Simple neural model with 20 neurons detecting linear patterns</a></li>
+    </ul>
+  </li>
+
+  <li><strong>Predictive Models</strong>
+    <ul>
+      <li><a href="https://github.com/Raven-baey/sales-predictor">Sales Predictor</a> — regression model built with scikit-learn</li>
+      <li><a href="https://github.com/Raven-baey/handwriting-ai">Handwriting AI</a> — digit classification using a small CNN in TensorFlow</li>
+    </ul>
+  </li>
+
+  <li><strong>Microcontroller Integration</strong>
+    <ul>
+      <li><a href="https://github.com/Raven-baey/micro-ai-demo">Embedded AI Demo</a> — Python microcontroller project demonstrating simple signal recognition</li>
+    </ul>
+  </li>
+</ul>
+
+<h2>📊 Currently Learning</h2>
+<ul>
+  <li>Deep Learning with PyTorch & TensorFlow</li>
+  <li>Data visualization (Matplotlib, Seaborn, Plotly)</li>
+  <li>Mathematics for AI — Linear Algebra & Calculus</li>
+  <li>Model optimization and deployment (Docker, FastAPI)</li>
+</ul>
+
+<h2>📫 Contact</h2>
+<p>
+  <strong>Email:</strong> your.email@example.com<br/>
+  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/your-profile/">linkedin.com/in/your-profile</a>
+</p>
+
+<p><em>All projects are educational or open-source demonstrations. I focus on Python, AI, and applied mathematics — constantly building, testing, and learning.</em></p>
+
 
 
 <!--
