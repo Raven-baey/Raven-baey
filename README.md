@@ -32,7 +32,7 @@
 <ul>
   <li><strong>Linear ML Prototype</strong>
     <ul>
-      <li><a href="https://github.com/Raven-baey/linear-ml-prototype">Simple neural model with 20 neurons detecting linear patterns</a></li>
+      <li><a href="https://github.com/Raven-baey/Non-linear-Neural-Network-Small-">Simple neural model with 20 neurons detecting linear patterns</a></li>
     </ul>
   </li>
 
